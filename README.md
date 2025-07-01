@@ -7,17 +7,17 @@ Hier habe ich deutschsprachige Module, Hilfsmittel und Tutorials zur Bibelsoftwa
 Folgende Module sind hier bisher verfügbar:
 
 ## Bibelübersetzungen
-- Die Bibel in der Menge-Übersetzung (1926) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Menge1926_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Menge1926_mac.zip))
-- Die Bibel in der Luther-Übersetzung (1912) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Luther1912_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Luther1912_mac.zip))
+- Die Bibel in der Menge-Übersetzung (1926) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Menge1926win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Menge1926.zip))
+- Die Bibel in der Luther-Übersetzung (1912) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Luther1912win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Luther1912.zip))
 - [Die Bibel in der Luther-Übersetzung](https://github.com/jhnns-cc/accordance/blob/main/files/Luther1545_2018.zip) (1545) (Editor: Markus Oehler)
 - [Die Bibel in der Elberfelder-Übersetzung](https://github.com/jhnns-cc/accordance/blob/main/files/Elberfelder1871_2018.zip) (1871) (Editor: Markus Oehler)
-- Die Bibel in der Schlachter-Übersetzung (1951) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Schlachter1951_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Schlachter1951_mac.zip))
-- Das NT in der Bengel-Übersetzung (1753) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Bengel_NT_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Bengel_NT_mac.zip))
+- Die Bibel in der Schlachter-Übersetzung (1951) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Schlachter1951_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Schlachter1951.zip))
+- Das NT in der Bengel-Übersetzung (1753) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/BengelNTwin.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/BengelNT.zip))
 
 ## Altkirchliche Schriften
-- Die beiden nicänischen Bekenntnisse auf Griechisch (325/381) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Nicaenum_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Nicaenum_mac.zip))
-- Die Apostolischen Väter (Editor: Mark Schröder) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Apostolische_Vaeter_win.zip) | [Mac](https://github.com/jhnns-cc/accordance/blob/main/files/Apostolische_Vaeter_mac.zip))
-- Die Schriften des Laktanz ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Laktanz_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Laktanz_mac.zip))
+- Die beiden nicänischen Bekenntnisse auf Griechisch (325/381) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Nicaenum_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Nicaenum.zip))
+- Die Apostolischen Väter (Editor: Mark Schröder) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Apostolische_Vaeter_win.zip) | [Mac](https://github.com/jhnns-cc/accordance/blob/main/files/Apostolische_Vaeter.zip))
+- Die Schriften des Laktanz ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Laktanz_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Laktanz.zip))
 
 ## Reformatorische Schriften
 - [Die 95 Thesen Martin Luthers](https://github.com/jhnns-cc/accordance/blob/main/files/95Thesen.zip) (1517)
@@ -29,11 +29,11 @@ Folgende Module sind hier bisher verfügbar:
 - [Das Westminster Bekenntnis](https://github.com/jhnns-cc/accordance/blob/main/files/Westminster-Bekenntnis.zip) (1647) (Editor: Thomas Reiner)
 
 ## Bibel- und Wortstudien
-- Warum nahm Gott das Opfer Kains nicht an? ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Gen4_2-5_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Gen4_2-5_mac.zip))
-- Die Zahlen 666 und ihre Variante 616 in der Apokalypse ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/666_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/666_mac.zip))
-- εὐθύς im Markusevangelium ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/euthus_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/euthus_mac.zip))
+- Warum nahm Gott das Opfer Kains nicht an? ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Gen4_2-5_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Gen4_2-5.zip))
+- Die Zahlen 666 und ihre Variante 616 in der Apokalypse ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/666_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/666.zip))
+- εὐθύς im Markusevangelium ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/euthus_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/euthus.zip))
 
 ## Weitere Module
-- Warum Gott Mensch geworden (Anselm) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Anselm_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Anselm_mac.zip))
-- Das verlorene Paradies (John Milton) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Milton_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Milton_mac.zip))
-- Die Barmer Theologische Erklärung (1934) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Barmer-Erklaerung_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Barmer-Erklaerung_mac.zip))
+- Warum Gott Mensch geworden (Anselm) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Anselm_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Anselm.zip))
+- Das verlorene Paradies (John Milton) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Milton_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Milton.zip))
+- Die Barmer Theologische Erklärung (1934) ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Barmer-Erklaerung_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Barmer-Erklaerung.zip))
