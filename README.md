@@ -21,12 +21,12 @@ Folgende Module sind hier bisher verfügbar:
 
 ## Reformatorische Schriften
 - [Die 95 Thesen Martin Luthers](https://github.com/jhnns-cc/accordance/blob/main/files/95Thesen.zip) (1517)
-- [Von der Freiheit eines Christenmenschen](https://github.com/jhnns-cc/accordance/blob/main/files/Freiheit-eines-Christenmenschen.zip) (Luther, 1520)
-- [Vom unfreien Willen](https://github.com/jhnns-cc/accordance/blob/main/files/Vom-unfreien-Willen.zip) (M. Luther, 1526)
-- [Ein Sendbrief vom Dolmetschen](https://github.com/jhnns-cc/accordance/blob/main/files/Sendbrief-vom-Dolemtschen.zip) (Martin Luther, 1530)
-- [Das Augsburger Bekenntnis](https://github.com/jhnns-cc/accordance/blob/main/files/Augsburger-Bekenntnis.zip) (CA, 1530)
-- [Der Heidelberger Katechismus](https://github.com/jhnns-cc/accordance/blob/main/files/Heidelberger-Katechismus.zip) (1563) (Editor: Thomas Reiner)
-- [Das Westminster Bekenntnis](https://github.com/jhnns-cc/accordance/blob/main/files/Westminster-Bekenntnis.zip) (1647) (Editor: Thomas Reiner)
+- [Von der Freiheit eines Christenmenschen](https://github.com/jhnns-cc/accordance/blob/main/files/Freiheit.zip) (Luther, 1520)
+- [Vom unfreien Willen](https://github.com/jhnns-cc/accordance/blob/main/files/unfrei.zip) (M. Luther, 1526)
+- [Ein Sendbrief vom Dolmetschen](https://github.com/jhnns-cc/accordance/blob/main/files/Sendbrief.zip) (Martin Luther, 1530)
+- [Das Augsburger Bekenntnis](https://github.com/jhnns-cc/accordance/blob/main/files/ca.zip) (CA, 1530)
+- [Der Heidelberger Katechismus](https://github.com/jhnns-cc/accordance/blob/main/files/hk.zip) (1563) (Editor: Thomas Reiner)
+- [Das Westminster Bekenntnis](https://github.com/jhnns-cc/accordance/blob/main/files/wb.zip) (1647) (Editor: Thomas Reiner)
 
 ## Bibel- und Wortstudien
 - Warum nahm Gott das Opfer Kains nicht an? ([WIN](https://github.com/jhnns-cc/accordance/blob/main/files/Gen4_2-5_win.zip) | [MAC](https://github.com/jhnns-cc/accordance/blob/main/files/Gen4_2-5.zip))
